@@ -132,6 +132,9 @@ hawai-pizza-agentAI/
 
 ---
 
+## License
+The project is available as open source under the terms of the [MIT License](https://opensource.org/license/MIT)
+
 ## 🧡 Autor
 
 Stworzony przez [@adamzagorski92](https://github.com/adamzagorski92)  
